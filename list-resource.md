@@ -10,15 +10,33 @@ Share some useful resources.
 
 <!--more-->
 
+# Personal Site
+
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog)
+- [Chengwei's Words](http://www.chengweiyang.cn)
+
+- [吕立青的博客](http://blog.jimmylv.info)
+
+
+## golang
+
+- **[divan's blog](https://divan.github.io)** : an amazing blog
+- [Applied Go: Go beyond the Go tutorials](https://appliedgo.net)
+
+- [Tony Bai](http://tonybai.com/articles) : golang, docker
+- [Hao](http://zuozuohao.github.io/)
+
+## else
+
+
+---
+
 # Reading
 
 - [推酷](http://www.tuicool.com)
+
+- [medium](https://medium.com)
 - [一览](http://www.yilan.io)
-
-# Books
-
-- Go in Practice (ing)
-- The Art of Agile Development (ing)
 
 ---
 
@@ -28,6 +46,10 @@ Share some useful resources.
 - [Lynda](https://www.lynda.com): 同tuts+，有条理。
 - [Course Hero](https://www.coursehero.com)
 
+- [慕课网](http://www.imooc.com)
+- [慕课中国](http://www.mooc.cn)
+- [网易云课堂](http://study.163.com)
+- [网易公开课](http://open.163.com)
 
 ---
 
@@ -49,18 +71,6 @@ Share some useful resources.
 
 -----
 
-# Personal Site
-
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog)
-
-## golang
-
-- [Hao](http://zuozuohao.github.io/)
-
-## else
-
-
----
 
 # News Sites
 

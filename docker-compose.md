@@ -1,5 +1,5 @@
 ---
-title: "Docker compose 学习笔记(ing)"
+title: "Docker compose note (ing)"
 date: 2016-07-25 23:35:25
 categories: docker
 tags: compose
