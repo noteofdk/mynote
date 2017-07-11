@@ -7,15 +7,12 @@ tags: books
 ---
 
 The list to read and related resources.
+
 <!--more-->
 
 # foundation
-
-- *Advanced Programming in the UNIX Environment, 3rd Edition*
-- *The Unix Programming Environment*
-- *Beginning Unix*
-
 - *Programming Language Foundations*
+
 
 # golang
 
@@ -35,6 +32,17 @@ The list to read and related resources.
 - *Docker in Action*
 - *Docker in Practice*
 
+# linux
+
+- *Mastering Linux*
+
+# unix
+
+- *Advanced Programming in the UNIX Environment, 3rd Edition*
+- *The Unix Programming Environment*
+- *Beginning Unix*
+
+
 # netword
 
 - *TCPIP Illustrated, Volume 1, 2nd Edition*
@@ -42,6 +50,10 @@ The list to read and related resources.
 - *SDN Software Defined Networks*
 
 - *The Art of Network Architecture*
+
+# ssh
+
+- *SSH, The Secure Shell, 2nd Edition*
 
 # development process
 
@@ -59,8 +71,9 @@ The list to read and related resources.
 
 # inspiring blog
 
-## Lucida's blog : [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list)
+## 1. Lucida's blog : 
+site address: [lucida](http://lucida.me)
 
-site address: lucida(http://lucida.me)
 
+### [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list)
 > 本文把程序员所需掌握的关键知识总结为三大类19个关键概念，然后给出了掌握每个关键概念所需的入门书籍，必读书籍，以及延伸阅读。旨在成为最好最全面的程序员必读书单。

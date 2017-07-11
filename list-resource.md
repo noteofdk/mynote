@@ -10,10 +10,17 @@ Share some useful resources.
 
 <!--more-->
 
+# Be a Coder
+## [*A Programmer Prepares*](https://leohxj.gitbooks.io/a-programmer-prepares/)
+A wonderful huge book for a coder who want to go higher.
+
+It's a complete collection of useful tips for the coder.
+
 # Personal Site
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog)
 - [Chengwei's Words](http://www.chengweiyang.cn)
+- [语行](http://www.cnblogs.com/yuxingfirst)
 
 - [吕立青的博客](http://blog.jimmylv.info)
 
@@ -83,3 +90,5 @@ Share some useful resources.
 # Resource
 
 - [allitebooks](http://www.allitebooks.com)
+
+# 
