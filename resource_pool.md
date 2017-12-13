@@ -1,16 +1,16 @@
 ---
-title: "Resource List"
-date: 2016-10-13 23:35:25
-categories: list
-tags: resource
+title: "Resource Pool"
+date: 2017-10-27 23:35:25
+categories: resource
+tags: [resource, link]
 
 ---
 
-Share some useful resources.
+My resource pool
 
 <!--more-->
 
-# Be a Coder
+# As a Coder
 ## [*A Programmer Prepares*](https://leohxj.gitbooks.io/a-programmer-prepares/)
 A wonderful huge book for a coder who want to go higher.
 
@@ -24,6 +24,7 @@ It's a complete collection of useful tips for the coder.
 
 - [吕立青的博客](http://blog.jimmylv.info)
 
+- [Legendtkl](http://legendtkl.com/): blogs of Tao Kelu(taokelu@gmail.com)
 
 ## golang
 
@@ -58,6 +59,10 @@ It's a complete collection of useful tips for the coder.
 - [网易云课堂](http://study.163.com)
 - [网易公开课](http://open.163.com)
 
+## 软件开发类
+
+- [阿里云大学](https://edu.aliyun.com/developer)
+
 ---
 
 # Forums
@@ -87,8 +92,7 @@ It's a complete collection of useful tips for the coder.
 
 ---
 
-# Resource
+# Resource Sites
 
-- [allitebooks](http://www.allitebooks.com)
+- [allitebooks](http://www.allitebooks.com): you can download almost all IT ebooks here
 
-# 
