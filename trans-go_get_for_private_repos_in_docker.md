@@ -1,8 +1,8 @@
 ---
 title: "【翻译】docker 中拉取私库"
 date: 2016-10-27 9:35:25
-categories: 翻译
-tags: [golang, docker, ssh]
+categories: [docker]
+tags: [docker, ssh, translate]
 
 ---
 

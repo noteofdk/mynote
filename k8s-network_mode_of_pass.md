@@ -1,8 +1,9 @@
 ---
 title: PaaS之网络模型设计--分享整理
 date: 2017-07-11 22:56:49
-categories: k8s
-tags: [docker, k8s, k8s network]
+categories: [k8s]
+img: http://7xq4tu.com1.z0.glb.clouddn.com/image/logo/k8s.png
+tags: [docker, k8s, network]
 ---
 
 本文整理网宿科技云计算架构师 吴龙辉 2017年7月11日在 DockerOne.io 的技术分享。

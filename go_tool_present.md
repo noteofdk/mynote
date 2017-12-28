@@ -3,6 +3,7 @@ title: 'Go tool: present'
 date: 2017-09-21 16:29:22
 categories: [golang]
 tags: [tools, golang]
+img: http://7xq4tu.com1.z0.glb.clouddn.com/image/logo/go4.jpg
 ---
 
 # 文件格式

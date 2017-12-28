@@ -1,8 +1,9 @@
 ---
 title: "Hexo 构建静态博客"
 date: 2016-07-26 09:56:01
-categories: tools
+categories: [util]
 tags: hexo
+img: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_200x200.png
 ---
 
 Hexo 是个快速、简单且功能强大的 Node.js 博客框架。

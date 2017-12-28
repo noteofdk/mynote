@@ -2,7 +2,8 @@
 title: 'Go package: HTTP 服务器实现'
 date: 2017-12-12 16:29:22
 categories: [golang]
-tags: [golang]
+tags: [golang, http]
+img: http://7xq4tu.com1.z0.glb.clouddn.com/image/logo/go3.png
 ---
 
 本文简单分析 go 1.9 http 服务器的实现。介绍 net/http 包中实现 HTTP 服务器的几个重要的函数和结构体的实现和用法。

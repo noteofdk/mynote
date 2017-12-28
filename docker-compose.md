@@ -1,8 +1,8 @@
 ---
 title: "Docker compose note (ing)"
 date: 2016-07-25 23:35:25
-categories: docker
-tags: compose
+categories: [docker]
+tags: [doker, compose]
 ---
 
 Docker Compose 是定义、构建多容器的 docker 应用的工具。
